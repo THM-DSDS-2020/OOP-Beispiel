@@ -1,0 +1,10 @@
+{
+    "description": "OOP AddOn",
+    "manifest_version": 2,
+    "name": "oop-test",
+    "version": "1.0",
+  
+    "background": {
+      "scripts": ["module1.js", "module2.js", "main.js"]
+    }
+  }

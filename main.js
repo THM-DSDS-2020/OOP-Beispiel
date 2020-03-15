@@ -11,3 +11,6 @@ module1.callMe('test1');
 
 //Direkter Zugriff aus den Singleton Module2
 Module2.callMe('test2');
+
+//Überprüfen Sie ob Sie die Kosolenausgabe sehen können wenn dieser Code läuft.
+//Wie das geht steht in der PDF
